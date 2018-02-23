@@ -1,0 +1,1 @@
+/home/chaminda/NetBeansProjects/Banking/DB/bankingDB.sqlite
